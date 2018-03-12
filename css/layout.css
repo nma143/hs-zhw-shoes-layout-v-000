@@ -30,14 +30,15 @@
 .col-1 {
   float: left;
   width: 33%;
-  margin-left: 2%;
-  margin bottom: 2%;
+
 
 
 }
 .col-2 {
   float: left;
   width: 66%;
+  margin-right: 2%;
+  margin bottom: 2%;
 
 }
 .col-3 {
